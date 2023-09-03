@@ -10,10 +10,4 @@ paste this link:
 
 Tools -> Board manager -> install Esp32 board
 
-### Adding Espnow protocol library
-
-> Download [SimpleEspNowConnection](https://downloads.arduino.cc/libraries/github.com/saghonfly/SimpleEspNowConnection-1.2.0.zip?_gl=1*74t4jf*_ga*MTMyNDkxMDE5NC4xNjkzNTAzMDMx*_ga_NEXN8H46L5*MTY5MzUwMzAzMC4xLjAuMTY5MzUwMzAzMi4wLjAuMA..) protocol
-
-Sketch -> Add file 
-
-   And add the above downloaded file
+Note:  'esp_now' library will be installed along with the Esp32 Board.
